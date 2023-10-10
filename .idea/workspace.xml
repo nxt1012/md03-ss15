@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf01e5ff-c044-4aa6-9b22-9c0e02b9afad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/bt2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/bt2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +45,12 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ra.bt4.Main">
+  <component name="RunManager" selected="Application.ra.bt2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ra.bt1.Main" />
       <module name="ss15" />
@@ -112,10 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ra.bt2.Main" />
         <item itemvalue="Application.ra.bt4.Main" />
         <item itemvalue="Application.ra.bt3.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ra.bt2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +121,8 @@
       <option name="presentableId" value="Default" />
       <updated>1696858446390</updated>
       <workItem from="1696858447439" duration="4350000" />
-      <workItem from="1696905078041" duration="3663000" />
+      <workItem from="1696905078041" duration="4216000" />
+      <workItem from="1696912989413" duration="446000" />
     </task>
     <servers />
   </component>
